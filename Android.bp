@@ -34,7 +34,7 @@ java_defaults {
 
     privileged: true,
 
-    certificate: "platform",
+    certificate: "shared",
 
     optimize: {
         proguard_flags_files: ["proguard.flags"],
